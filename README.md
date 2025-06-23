@@ -58,6 +58,20 @@ The system includes four main entities:
 
 ---
 
+## Author table desc
+![image](https://github.com/user-attachments/assets/1c800aa8-5023-4e3a-b364-1c2b44fd8f6f)
+
+## Book table desc
+![image](https://github.com/user-attachments/assets/d9c0c6b2-11c7-49b1-90aa-ae6986807633)
+
+## Member table desc
+![image](https://github.com/user-attachments/assets/fd1f9e14-6ce6-4a89-9f36-910ab8d2d8c7)
+
+## Borrow table desc
+![image](https://github.com/user-attachments/assets/282c981b-404e-433e-a882-8416d277eeec)
+
+---
+
 ## Author
 
 - **Anjana B. Nair**
