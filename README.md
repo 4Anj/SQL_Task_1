@@ -50,7 +50,7 @@ The system includes four main entities:
 
 ---
 
-## 📌 How to Run
+## How to Run
 
 1. Open **MySQL Workbench**
 2. Run the `library_schema.sql` file to create the database
@@ -58,7 +58,7 @@ The system includes four main entities:
 
 ---
 
-## 📬 Author
+## Author
 
 - **Anjana B. Nair**
 - Tools: MySQL Workbench, dbdiagram.io, VS Code
